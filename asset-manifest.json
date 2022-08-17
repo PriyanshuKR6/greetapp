@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriyanshuKR6.github.io/greetapp/static/css/main.ded36963.css",
+    "main.js": "/PriyanshuKR6.github.io/greetapp/static/js/main.e3119dd4.js",
+    "static/js/787.b43d7498.chunk.js": "/PriyanshuKR6.github.io/greetapp/static/js/787.b43d7498.chunk.js",
+    "index.html": "/PriyanshuKR6.github.io/greetapp/index.html",
+    "main.ded36963.css.map": "/PriyanshuKR6.github.io/greetapp/static/css/main.ded36963.css.map",
+    "main.e3119dd4.js.map": "/PriyanshuKR6.github.io/greetapp/static/js/main.e3119dd4.js.map",
+    "787.b43d7498.chunk.js.map": "/PriyanshuKR6.github.io/greetapp/static/js/787.b43d7498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded36963.css",
+    "static/js/main.e3119dd4.js"
+  ]
+}
